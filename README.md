@@ -1,4 +1,4 @@
-PandasLab
+Pandas Lab
 =========
 
-Experiments in Pandas
+Repo for my Pandas related experiments
